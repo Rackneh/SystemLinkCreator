@@ -3,7 +3,7 @@
 echo // System Link Creator v1
 echo // current use: game backups
 rem // make sure you add "rem (unused)" before any line of the console roms you're NOT using.
-rem // it's supposed to go like this "call create_links.bat <rom input folder> <symlink output folder>
+rem //
 rem // example:
 rem //
 rem // call create_links.bat "E:\Games\Emulation\3DS\3DS" "C:\Users\yourname\Documents\EmulationStation\Roms\n3ds"
