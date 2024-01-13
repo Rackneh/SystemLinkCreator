@@ -15,8 +15,8 @@ When you need programs to get files as if they were in a folder or computer with
 
 
 # ***Currently known issues:
-	*no folder path can include spaces in the name.
-	*the created "outputpath_symbolic_links.bat" needs to be run with Admin privs
+	*no folder path can include spaces in the name or & symbols
+	*the created "outputpath_symbolic_links.bat" needs to be run with Admin priv
 
 
  How to
