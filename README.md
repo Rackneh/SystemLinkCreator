@@ -25,3 +25,8 @@ When you need programs to get files as if they were in a folder or computer with
  
 I currently use this myself to add all my game backups to rom folders on my steamdeck. 
 Allowing me to have my favourite roms on my steamdeck and load every other game from the network when I'm home through a single console-specific front-end "roms" folder.
+
+
+Troubleshoot example:
+
+call create_links.bat "E:\Games\Emulation\3DS\3DS" "C:\Users\yourname\Documents\EmulationStation\Roms\n3ds"
