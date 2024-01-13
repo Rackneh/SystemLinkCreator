@@ -8,8 +8,7 @@ This goes through every file in the input folder and creates a .symlink file to 
 	When do I use this?
 
 When you need programs to get files as if they were in a folder or computer without them actually being there.
-I currently use this myself to add all my game backups to rom folders on my steamdeck. 
-Allowing me to have both roms on the deck's limited storage and also be able to use my full backup for all my roms when home.
+
 
  How to
 
@@ -22,3 +21,7 @@ Allowing me to have both roms on the deck's limited storage and also be able to 
 4. Done!
 
 
+*This is essentially how Vortex Mod Loader from the Nexus seperates mod folders in the AppData folder from the game "Mods" folders.
+ 
+I currently use this myself to add all my game backups to rom folders on my steamdeck. 
+Allowing me to have both roms on the deck's limited storage and also be able to use my full backup for all my roms when home.
