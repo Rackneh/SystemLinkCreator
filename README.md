@@ -14,7 +14,7 @@ When you need programs to get files as if they were in a folder or computer with
 
 
 
-#***Currently known issues:
+# ***Currently known issues:
 	
  *no folder path can include spaces in the name.
 
