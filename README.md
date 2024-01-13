@@ -24,4 +24,4 @@ When you need programs to get files as if they were in a folder or computer with
 *This is essentially how Vortex Mod Loader from the Nexus seperates mod folders in the AppData folder from the game "Mods" folders.
  
 I currently use this myself to add all my game backups to rom folders on my steamdeck. 
-Allowing me to have both roms on the deck's limited storage and also be able to use my full backup for all my roms when home.
+Allowing me to have my favourite roms on my steamdeck and load every other game from the network when I'm home through a single console-specific front-end "roms" folder.
