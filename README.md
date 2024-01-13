@@ -1,6 +1,4 @@
-# Created by
-        Rackneh	
-	
+
 
 	How does this work?
 
@@ -13,7 +11,7 @@ When you need programs to get files as if they were in a folder or computer with
 I currently use this myself to add all my game backups to rom folders on my steamdeck. 
 Allowing me to have both roms on the deck's limited storage and also be able to use my full backup for all my roms when home.
 
-// How to
+ How to
 
 1. add the <input> folder and <output> folder paths to each line for the folders that contain roms on your external storage for the input and internal storage for the output to the All_Links.bat file according to it's example. 
 
