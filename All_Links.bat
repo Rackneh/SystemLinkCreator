@@ -8,7 +8,7 @@ rem // call create_links.bat "E:\Games\Emulation\3DS\3DS" "C:\Users\yourname\Doc
 rem //
 
 
-rem //Nintendo\\
+
 rem 3DS
 call create_links.bat 
 rem NDS
