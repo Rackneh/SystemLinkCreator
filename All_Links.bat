@@ -1,7 +1,5 @@
-@echo on
-
-echo // System Link Creator v1
-echo // current use: game backups
+rem // System Link Creator v1
+rem // current use: game backups
 rem // make sure you add "rem (unused)" before any line of the console roms you're NOT using.
 rem //
 rem // example:
@@ -10,56 +8,56 @@ rem // call create_links.bat "E:\Games\Emulation\3DS\3DS" "C:\Users\yourname\Doc
 rem //
 
 
-echo //Nintendo\\
-echo 3DS
+rem //Nintendo\\
+rem 3DS
 call create_links.bat 
-echo NDS
+rem NDS
 call create_links.bat 
-echo GBA
+rem GBA
 call create_links.bat
-echo N64
+rem N64
 call create_links.bat 
-echo NES
+rem NES
 call create_links.bat
-echo SNES
+rem SNES
 call create_links.bat 
-echo Switch
+rem Switch
 call create_links.bat
-echo GameCube
+rem GameCube
 call create_links.bat
-echo WII
+rem WII
 call create_links.bat 
 
-echo //Sony\\
-echo PS1
+rem //Sony\\
+rem PS1
 call create_links.bat 
-echo PS2
+rem PS2
 call create_links.bat 
-echo PS3
+rem PS3
 call create_links.bat 
-echo PSP
+rem PSP
 call create_links.bat 
-echo PSV
-call create_links.bat 
-
-echo //Xbox\\
-echo OG Xbox
-call create_links.bat 
-echo Xbox360
+rem PSV
 call create_links.bat 
 
-echo //Retro\\
-echo Atari
+rem //Xbox\\
+rem OG Xbox
 call create_links.bat 
-echo NeoGeo
+rem Xbox360
 call create_links.bat 
-echo TurboGrafx
+
+rem //Retro\\
+rem Atari
 call create_links.bat 
-echo ZX Spectrum
+rem NeoGeo
 call create_links.bat 
-echo Sega Genesis
+rem TurboGrafx
 call create_links.bat 
-echo Mame
+rem ZX Spectrum
+call create_links.bat 
+rem Sega Genesis
+call create_links.bat 
+rem Mame
 call create_links.bat 
 
 pause
