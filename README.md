@@ -1,9 +1,5 @@
-# SystemLinkCreator
-1/13/2024
-
-#System Link Creator
-     Created by
-#        Rackneh	
+# Created by
+        Rackneh	
 	
 
 	How does this work?
