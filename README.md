@@ -19,7 +19,7 @@ When you need programs to get files as if they were in a folder or computer with
 	*The created "outputpath_symbolic_links.bat" needs to be run with Admin priv
 
 # ***To do:
-	*Make a version that recreates folder structures as it goes recursively through folders for other files.
+	*Make a version that recreates folder structures as it recursively goes through folders for other files.
 	*Gui
 
  How to
