@@ -1,6 +1,4 @@
-***Current known issues:
-	
- *no folder path can include spaces in the name.
+
 
 
 
@@ -12,6 +10,13 @@ This goes through every file in the input folder and creates a .symlink file to 
 	When do I use this?
 
 When you need programs to get files as if they were in a folder or computer without them actually being there.
+
+
+
+
+#***Currently known issues:
+	
+ *no folder path can include spaces in the name.
 
 
  How to
