@@ -1,3 +1,6 @@
+***Current known issues:
+	*no folder path can include spaces in the name.
+
 
 
 	How does this work?
