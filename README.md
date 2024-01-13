@@ -2,7 +2,7 @@
 
 	How does this work?
 
-This goes through every <input> folder and creates a .symlink file to it in the <output> folder.
+This goes through every file in the input folder and creates a .symlink file to it in the output folder.
 
 
 	When do I use this?
@@ -13,11 +13,11 @@ Allowing me to have both roms on the deck's limited storage and also be able to 
 
  How to
 
-1. add the <input> folder and <output> folder paths to each line for the folders that contain roms on your external storage for the input and internal storage for the output to the All_Links.bat file according to it's example. 
+1. add the input and output folder paths to each line for the folders that contain roms on your external storage for the input and internal storage for the output to the All_Links.bat file according to it's example. 
 
 2. run All_Links.bat and it will create a new bat file for each set of folders you assigned above
 
-3. Run all <outputfolder>_symbolic_links.bat that were created
+3. Run all outputfolder_symbolic_links.bat that were created
 
 4. Done!
 
