@@ -8,7 +8,7 @@ rem // example:
 rem //
 rem // call create_links.bat "E:\Games\Emulation\3DS\3DS" "C:\Users\yourname\Documents\EmulationStation\Roms\n3ds"
 rem //
-rem // If there are spaces in your urls, be sure to include quotes.
+
 
 echo //Nintendo\\
 echo 3DS
