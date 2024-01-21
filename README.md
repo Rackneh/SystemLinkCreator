@@ -29,7 +29,7 @@ When you need programs to get files as if they were in a folder or computer with
 
 
 # ***Currently known issues:
-	*No folder path can include spaces in the name or & symbols
+	*the folder paths can NOT include spaces in the name or & symbols
 	*The created "outputpath_symbolic_links.bat" needs to be run with Admin priv
 
 # ***To do:
