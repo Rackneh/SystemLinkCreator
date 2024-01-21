@@ -1,3 +1,17 @@
+What is a SystemLink?
+
+A system link is basically a shortcut that acts like it's the file it's pointing to.
+*This is essentially how Vortex Mod Loader from the Nexus seperates mod folders in the AppData folder from the game "Mods" folders.
+
+
+What can I use it for?
+
+To save space on C by placing files on a second drive and creating systemlinks to the files on C.
+
+To map files from network drives such as a NAS or a basic shared drive to different kinds of computers: Think Image, movie,  non-launcher game libraries.
+
+I personally use this at the moment for game backups and cover images for Launchbox on my Steamdeck.
+
 
 
 
@@ -33,9 +47,8 @@ When you need programs to get files as if they were in a folder or computer with
 4. Done!
 
 
-*This is essentially how Vortex Mod Loader from the Nexus seperates mod folders in the AppData folder from the game "Mods" folders.
+
  
-I currently use this myself to add all my game backups to rom folders on my steamdeck. 
 Allowing me to have my favourite roms on my steamdeck and load every other game from the network when I'm home through a single console-specific front-end "roms" folder.
 
 
